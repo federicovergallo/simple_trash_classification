@@ -1,0 +1,1 @@
+# simple_trash_classification
